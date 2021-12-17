@@ -1,0 +1,35 @@
+body{
+  background-color: #2E4C6D;
+  text-align: center;
+}
+h1{
+  color:white;
+
+}
+h2{
+  margin-top: 100px;
+  color:white;
+
+}
+
+.area{
+
+  padding: 20px;
+  background-color: #396EB0;
+  color:black;
+  font-family: sans-serif;
+  font-weight: bold;
+  border-radius: 20px;}
+
+.key{
+  background: white;
+  display: inline-block;
+  width: 40px;
+  margin: 15;
+  height: 200px;
+  border: solid 2px #2E4C6D;
+}
+.focus{
+  border-color: #FC997C;
+  background: #FF7800;
+}
